@@ -42,7 +42,7 @@
 
 	<properties>
 		<version.kurento>6.7.2-SNAPSHOT</version.kurento>
-		<version.spring-boot>1.4.2.RELEASE</version.spring-boot>
+		<version.spring-boot>1.5.10.RELEASE</version.spring-boot>
 		<version.junit>4.12</version.junit>
 		<version.slf4j>1.7.13</version.slf4j>
 		<version.mockito>1.10.19</version.mockito>
@@ -172,7 +172,7 @@
 						</goals>
 						<configuration>
 							<rules>
-								<banCircularDependencies />
+								<banCircularDependencies/>
 							</rules>
 							<fail>true</fail>
 						</configuration>
