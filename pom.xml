@@ -43,7 +43,7 @@
 	<properties>
 		<version.kurento>6.7.2-SNAPSHOT</version.kurento>
 		<version.spring-boot>1.4.2.RELEASE</version.spring-boot>
-		<version.junit>4.12</version.junit>
+		<version.junit>4.13.1</version.junit>
 		<version.slf4j>1.7.13</version.slf4j>
 		<version.mockito>1.10.19</version.mockito>
 		<version.powermock>1.6.3</version.powermock>
@@ -172,7 +172,7 @@
 						</goals>
 						<configuration>
 							<rules>
-								<banCircularDependencies />
+								<banCircularDependencies/>
 							</rules>
 							<fail>true</fail>
 						</configuration>
