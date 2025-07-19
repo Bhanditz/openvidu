@@ -264,7 +264,7 @@
 		<dependency>
 			<groupId>com.github.docker-java</groupId>
 			<artifactId>docker-java</artifactId>
-			<version>3.0.6</version>
+			<version>3.2.0</version>
 		</dependency>
 		<dependency>
 			<groupId>io.openvidu</groupId>
@@ -279,7 +279,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-lang3</artifactId>
-			<version>3.7</version>
+			<version>3.18.0</version>
 		</dependency>
 
 		<!-- Test dependencies -->
